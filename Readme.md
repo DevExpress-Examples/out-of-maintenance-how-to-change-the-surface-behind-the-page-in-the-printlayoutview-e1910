@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/ChangeBackColor/MainPage.xaml) (VB: [MainPage.xaml](./VB/ChangeBackColor/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ChangeBackColor/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ChangeBackColor/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ChangeBackColor/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ChangeBackColor/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to change the surface behind the page in the PrintLayoutView
 
